@@ -1,0 +1,7 @@
+C:\Users\nguye\Documents\M2\C Sharp\TP\TD\TD\bin\Debug\TD.exe.config
+C:\Users\nguye\Documents\M2\C Sharp\TP\TD\TD\bin\Debug\TD.exe
+C:\Users\nguye\Documents\M2\C Sharp\TP\TD\TD\bin\Debug\TD.pdb
+C:\Users\nguye\Documents\M2\C Sharp\TP\TD\TD\obj\Debug\Les_Classes.csproj.AssemblyReference.cache
+C:\Users\nguye\Documents\M2\C Sharp\TP\TD\TD\obj\Debug\Les_Classes.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Documents\M2\C Sharp\TP\TD\TD\obj\Debug\TD.exe
+C:\Users\nguye\Documents\M2\C Sharp\TP\TD\TD\obj\Debug\TD.pdb

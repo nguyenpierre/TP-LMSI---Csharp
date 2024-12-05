@@ -1,0 +1,7 @@
+C:\Users\nguye\Documents\M2\C Sharp\TP\TD\ArticleType\bin\Debug\ArticleType.exe.config
+C:\Users\nguye\Documents\M2\C Sharp\TP\TD\ArticleType\bin\Debug\ArticleType.exe
+C:\Users\nguye\Documents\M2\C Sharp\TP\TD\ArticleType\bin\Debug\ArticleType.pdb
+C:\Users\nguye\Documents\M2\C Sharp\TP\TD\ArticleType\obj\Debug\ArticleType.csproj.AssemblyReference.cache
+C:\Users\nguye\Documents\M2\C Sharp\TP\TD\ArticleType\obj\Debug\ArticleType.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Documents\M2\C Sharp\TP\TD\ArticleType\obj\Debug\ArticleType.exe
+C:\Users\nguye\Documents\M2\C Sharp\TP\TD\ArticleType\obj\Debug\ArticleType.pdb

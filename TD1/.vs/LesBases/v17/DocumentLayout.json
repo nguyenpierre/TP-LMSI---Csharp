@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nguye\\Documents\\M2\\C Sharp\\TP\\TD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C11BEBC-9E12-42F5-8FB9-A16EA533055D}|ArticleTableau\\ArticleTableau.csproj|C:\\Users\\nguye\\Documents\\M2\\C Sharp\\TP\\TD\\articletableau\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C11BEBC-9E12-42F5-8FB9-A16EA533055D}|ArticleTableau\\ArticleTableau.csproj|solutionrelative:articletableau\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DFFCA9D-01FF-4204-8D5E-4607F8C3BF76}|ArticleType\\ArticleType.csproj|c:\\users\\nguye\\documents\\m2\\c sharp\\tp\\td\\articletype\\articletype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DFFCA9D-01FF-4204-8D5E-4607F8C3BF76}|ArticleType\\ArticleType.csproj|solutionrelative:articletype\\articletype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArticleType.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\Documents\\M2\\C Sharp\\TP\\TD\\ArticleType\\ArticleType.cs",
+              "RelativeDocumentMoniker": "ArticleType\\ArticleType.cs",
+              "ToolTip": "C:\\Users\\nguye\\Documents\\M2\\C Sharp\\TP\\TD\\ArticleType\\ArticleType.cs",
+              "RelativeToolTip": "ArticleType\\ArticleType.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAswAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T15:01:10.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\Documents\\M2\\C Sharp\\TP\\TD\\ArticleTableau\\Program.cs",
+              "RelativeDocumentMoniker": "ArticleTableau\\Program.cs",
+              "ToolTip": "C:\\Users\\nguye\\Documents\\M2\\C Sharp\\TP\\TD\\ArticleTableau\\Program.cs",
+              "RelativeToolTip": "ArticleTableau\\Program.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAowEUAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T14:28:52.397Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

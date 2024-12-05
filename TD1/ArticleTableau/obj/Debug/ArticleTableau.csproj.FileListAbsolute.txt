@@ -1,0 +1,11 @@
+C:\Users\nguye\Documents\M2\C Sharp\TP\TD\ArticleTableau\bin\Debug\ArticleTableau.exe.config
+C:\Users\nguye\Documents\M2\C Sharp\TP\TD\ArticleTableau\bin\Debug\ArticleTableau.exe
+C:\Users\nguye\Documents\M2\C Sharp\TP\TD\ArticleTableau\bin\Debug\ArticleTableau.pdb
+C:\Users\nguye\Documents\M2\C Sharp\TP\TD\ArticleTableau\bin\Debug\ArticleType.exe
+C:\Users\nguye\Documents\M2\C Sharp\TP\TD\ArticleTableau\bin\Debug\ArticleType.pdb
+C:\Users\nguye\Documents\M2\C Sharp\TP\TD\ArticleTableau\bin\Debug\ArticleType.exe.config
+C:\Users\nguye\Documents\M2\C Sharp\TP\TD\ArticleTableau\obj\Debug\ArticleTableau.csproj.AssemblyReference.cache
+C:\Users\nguye\Documents\M2\C Sharp\TP\TD\ArticleTableau\obj\Debug\ArticleTableau.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Documents\M2\C Sharp\TP\TD\ArticleTableau\obj\Debug\ArticleT.06F02C08.Up2Date
+C:\Users\nguye\Documents\M2\C Sharp\TP\TD\ArticleTableau\obj\Debug\ArticleTableau.exe
+C:\Users\nguye\Documents\M2\C Sharp\TP\TD\ArticleTableau\obj\Debug\ArticleTableau.pdb

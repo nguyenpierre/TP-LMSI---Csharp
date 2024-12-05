@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nguye\\Documents\\M2\\C Sharp\\TP\\TD2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8926E6AD-4E85-4E22-BEFA-4E05EE351092}|LesDelegues\\LesDelegues.csproj|c:\\users\\nguye\\documents\\m2\\c sharp\\tp\\td2\\lesdelegues\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8926E6AD-4E85-4E22-BEFA-4E05EE351092}|LesDelegues\\LesDelegues.csproj|solutionrelative:lesdelegues\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A633CAE2-4EF6-4F4C-85B9-4AA4A10BE162}|ClassesAbstraites\\ClassesAbstraites.csproj|C:\\Users\\nguye\\Documents\\M2\\C Sharp\\TP\\TD2\\ClassesAbstraites\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A633CAE2-4EF6-4F4C-85B9-4AA4A10BE162}|ClassesAbstraites\\ClassesAbstraites.csproj|solutionrelative:ClassesAbstraites\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8926E6AD-4E85-4E22-BEFA-4E05EE351092}|LesDelegues\\LesDelegues.csproj|C:\\Users\\nguye\\Documents\\M2\\C Sharp\\TP\\TD2\\LesDelegues\\Article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8926E6AD-4E85-4E22-BEFA-4E05EE351092}|LesDelegues\\LesDelegues.csproj|solutionrelative:LesDelegues\\Article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8926E6AD-4E85-4E22-BEFA-4E05EE351092}|LesDelegues\\LesDelegues.csproj|C:\\Users\\nguye\\Documents\\M2\\C Sharp\\TP\\TD2\\LesDelegues\\DiscountStrategies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8926E6AD-4E85-4E22-BEFA-4E05EE351092}|LesDelegues\\LesDelegues.csproj|solutionrelative:LesDelegues\\DiscountStrategies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8926E6AD-4E85-4E22-BEFA-4E05EE351092}|LesDelegues\\LesDelegues.csproj|C:\\Users\\nguye\\Documents\\M2\\C Sharp\\TP\\TD2\\LesDelegues\\Video.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8926E6AD-4E85-4E22-BEFA-4E05EE351092}|LesDelegues\\LesDelegues.csproj|solutionrelative:LesDelegues\\Video.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8926E6AD-4E85-4E22-BEFA-4E05EE351092}|LesDelegues\\LesDelegues.csproj|C:\\Users\\nguye\\Documents\\M2\\C Sharp\\TP\\TD2\\LesDelegues\\Disque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8926E6AD-4E85-4E22-BEFA-4E05EE351092}|LesDelegues\\LesDelegues.csproj|solutionrelative:LesDelegues\\Disque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8926E6AD-4E85-4E22-BEFA-4E05EE351092}|LesDelegues\\LesDelegues.csproj|C:\\Users\\nguye\\Documents\\M2\\C Sharp\\TP\\TD2\\LesDelegues\\Livre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8926E6AD-4E85-4E22-BEFA-4E05EE351092}|LesDelegues\\LesDelegues.csproj|solutionrelative:LesDelegues\\Livre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8926E6AD-4E85-4E22-BEFA-4E05EE351092}|LesDelegues\\LesDelegues.csproj|C:\\Users\\nguye\\Documents\\M2\\C Sharp\\TP\\TD2\\LesDelegues\\Publication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8926E6AD-4E85-4E22-BEFA-4E05EE351092}|LesDelegues\\LesDelegues.csproj|solutionrelative:LesDelegues\\Publication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\Documents\\M2\\C Sharp\\TP\\TD2\\ClassesAbstraites\\Program.cs",
+              "RelativeDocumentMoniker": "ClassesAbstraites\\Program.cs",
+              "ToolTip": "C:\\Users\\nguye\\Documents\\M2\\C Sharp\\TP\\TD2\\ClassesAbstraites\\Program.cs",
+              "RelativeToolTip": "ClassesAbstraites\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T15:35:07.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Article.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\Documents\\M2\\C Sharp\\TP\\TD2\\LesDelegues\\Article.cs",
+              "RelativeDocumentMoniker": "LesDelegues\\Article.cs",
+              "ToolTip": "C:\\Users\\nguye\\Documents\\M2\\C Sharp\\TP\\TD2\\LesDelegues\\Article.cs",
+              "RelativeToolTip": "LesDelegues\\Article.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T14:15:12.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\Documents\\M2\\C Sharp\\TP\\TD2\\LesDelegues\\Program.cs",
+              "RelativeDocumentMoniker": "LesDelegues\\Program.cs",
+              "ToolTip": "C:\\Users\\nguye\\Documents\\M2\\C Sharp\\TP\\TD2\\LesDelegues\\Program.cs",
+              "RelativeToolTip": "LesDelegues\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T14:00:47.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DiscountStrategies.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\Documents\\M2\\C Sharp\\TP\\TD2\\LesDelegues\\DiscountStrategies.cs",
+              "RelativeDocumentMoniker": "LesDelegues\\DiscountStrategies.cs",
+              "ToolTip": "C:\\Users\\nguye\\Documents\\M2\\C Sharp\\TP\\TD2\\LesDelegues\\DiscountStrategies.cs",
+              "RelativeToolTip": "LesDelegues\\DiscountStrategies.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T10:05:48.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Video.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\Documents\\M2\\C Sharp\\TP\\TD2\\LesDelegues\\Video.cs",
+              "RelativeDocumentMoniker": "LesDelegues\\Video.cs",
+              "ToolTip": "C:\\Users\\nguye\\Documents\\M2\\C Sharp\\TP\\TD2\\LesDelegues\\Video.cs",
+              "RelativeToolTip": "LesDelegues\\Video.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwAgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T09:24:07.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Disque.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\Documents\\M2\\C Sharp\\TP\\TD2\\LesDelegues\\Disque.cs",
+              "RelativeDocumentMoniker": "LesDelegues\\Disque.cs",
+              "ToolTip": "C:\\Users\\nguye\\Documents\\M2\\C Sharp\\TP\\TD2\\LesDelegues\\Disque.cs",
+              "RelativeToolTip": "LesDelegues\\Disque.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAAAgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T09:19:36.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Livre.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\Documents\\M2\\C Sharp\\TP\\TD2\\LesDelegues\\Livre.cs",
+              "RelativeDocumentMoniker": "LesDelegues\\Livre.cs",
+              "ToolTip": "C:\\Users\\nguye\\Documents\\M2\\C Sharp\\TP\\TD2\\LesDelegues\\Livre.cs",
+              "RelativeToolTip": "LesDelegues\\Livre.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T14:56:13.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Publication.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\Documents\\M2\\C Sharp\\TP\\TD2\\LesDelegues\\Publication.cs",
+              "RelativeDocumentMoniker": "LesDelegues\\Publication.cs",
+              "ToolTip": "C:\\Users\\nguye\\Documents\\M2\\C Sharp\\TP\\TD2\\LesDelegues\\Publication.cs",
+              "RelativeToolTip": "LesDelegues\\Publication.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T14:48:44.278Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

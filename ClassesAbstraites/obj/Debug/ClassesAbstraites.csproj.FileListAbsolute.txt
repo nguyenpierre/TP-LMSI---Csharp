@@ -1,0 +1,7 @@
+C:\Users\nguye\Documents\M2\C Sharp\TP\TD2\ClassesAbstraites\bin\Debug\ClassesAbstraites.exe.config
+C:\Users\nguye\Documents\M2\C Sharp\TP\TD2\ClassesAbstraites\bin\Debug\ClassesAbstraites.exe
+C:\Users\nguye\Documents\M2\C Sharp\TP\TD2\ClassesAbstraites\bin\Debug\ClassesAbstraites.pdb
+C:\Users\nguye\Documents\M2\C Sharp\TP\TD2\ClassesAbstraites\obj\Debug\ClassesAbstraites.csproj.AssemblyReference.cache
+C:\Users\nguye\Documents\M2\C Sharp\TP\TD2\ClassesAbstraites\obj\Debug\ClassesAbstraites.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Documents\M2\C Sharp\TP\TD2\ClassesAbstraites\obj\Debug\ClassesAbstraites.exe
+C:\Users\nguye\Documents\M2\C Sharp\TP\TD2\ClassesAbstraites\obj\Debug\ClassesAbstraites.pdb

@@ -1,0 +1,7 @@
+C:\Users\nguye\Documents\M2\C Sharp\TP\TD2\LesDelegues\bin\Debug\LesDelegues.exe.config
+C:\Users\nguye\Documents\M2\C Sharp\TP\TD2\LesDelegues\bin\Debug\LesDelegues.exe
+C:\Users\nguye\Documents\M2\C Sharp\TP\TD2\LesDelegues\bin\Debug\LesDelegues.pdb
+C:\Users\nguye\Documents\M2\C Sharp\TP\TD2\LesDelegues\obj\Debug\LesDelegues.csproj.AssemblyReference.cache
+C:\Users\nguye\Documents\M2\C Sharp\TP\TD2\LesDelegues\obj\Debug\LesDelegues.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Documents\M2\C Sharp\TP\TD2\LesDelegues\obj\Debug\LesDelegues.exe
+C:\Users\nguye\Documents\M2\C Sharp\TP\TD2\LesDelegues\obj\Debug\LesDelegues.pdb
